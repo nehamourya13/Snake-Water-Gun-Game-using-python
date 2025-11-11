@@ -41,11 +41,11 @@ cd Snake-Water-Gun-Game-using-python
 python game.py
 
 🧑‍💻 Author:
-Neha Mourya
-💌 Feel free to connect or contribute!
+ Neha Mourya
+ 💌 Feel free to connect or contribute!
 
 ⭐ If you like this project
-Give it a ⭐ on GitHub
- — it really helps!
+  Give it a ⭐ on GitHub
+   — it really helps!
 
 
