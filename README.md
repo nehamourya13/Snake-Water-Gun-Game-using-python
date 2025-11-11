@@ -29,8 +29,8 @@ The game uses:
 4. f-Strings for formatted output
 
 📦 Requirements:
-Python 3.x
-No external libraries required (uses only built-in modules)
+1. Python 3.x
+2. No external libraries required (uses only built-in modules)
 
 🏁 How to Run:
 1. Clone the repository:
@@ -39,11 +39,9 @@ git clone https://github.com/yourusername/Snake-Water-Gun-Game-using-python.git
 cd Snake-Water-Gun-Game-using-python
 3. Run the script:
 python game.py
-
 🧑‍💻 Author:
 Neha Mourya
 💌 Feel free to connect or contribute!
-
 ⭐ If you like this project
 Give it a ⭐ on GitHub
  — it really helps!
