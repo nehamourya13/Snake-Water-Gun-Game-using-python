@@ -27,7 +27,9 @@ print(f"computer chose {reverseDict[computer]}\nYou Chose {reverseDict[you]}")
     elif(computer == 0 and you == 1): -1
        print("You lose!")
     else:
-       print("Something went wrong")'''
+       print("Something went wrong")
+       The below logic is written on the basis of the value of computer - you
+       '''
 if ((computer - you) == -1 or (computer - you) == 2):
     print("You Lose!")
 
