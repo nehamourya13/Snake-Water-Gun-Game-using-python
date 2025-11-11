@@ -39,9 +39,11 @@ git clone https://github.com/yourusername/Snake-Water-Gun-Game-using-python.git
 cd Snake-Water-Gun-Game-using-python
 3. Run the script:
 python game.py
+
 🧑‍💻 Author:
 Neha Mourya
 💌 Feel free to connect or contribute!
+
 ⭐ If you like this project
 Give it a ⭐ on GitHub
  — it really helps!
